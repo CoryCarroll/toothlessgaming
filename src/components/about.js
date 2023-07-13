@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
     return (
-        <div className="flex p-10">
+        <div className="flex p-10 mt-96 pt-72">
             <div>
             <img className='object-cover shadow-xl shadow-green-500/100' src='images/toothlesspic.png' alt="toothless"/>
             </div>
