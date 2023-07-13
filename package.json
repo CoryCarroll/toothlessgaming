@@ -2,7 +2,7 @@
   "name": "toothlessgaming",
   "homepage": "https://corycarroll.github.io/toothlessgaming/",
   "version": "0.1.0",
-  "private": true,
+  "main": "index.js",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@testing-library/jest-dom": "^5.16.5",
